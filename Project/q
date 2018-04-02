@@ -1,0 +1,45 @@
+
+Initializing Neural Network Parameters ...
+
+Checking Backpropagation... 
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+   0   0
+The above two columns you get should be very similar.
+(Left-Your Numerical Gradient, Right-Analytical Gradient)
+
